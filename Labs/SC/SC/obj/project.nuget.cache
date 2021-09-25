@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Mqh/5FoN+KjHPpIwpdsdYvtJLWIFAiyxf81ERLEcHUHHLL+3LWgcC8A95sLu2MnlaGb5YXE8u3voiepiCaMqMQ==",
+  "success": true,
+  "projectFilePath": "C:\\project\\SC\\Labs\\SC\\SC\\SC.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Timotin\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
