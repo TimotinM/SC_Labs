@@ -29,7 +29,6 @@ namespace SC.Parser
                using (FileStream fs = File.Create(path))
                {
                     byte[] info = new UTF8Encoding(true).GetBytes(json);
-                    // Add some information to the file.
                     fs.Write(info, 0, info.Length);
                }
           }
